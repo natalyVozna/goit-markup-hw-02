@@ -78,7 +78,7 @@ ul li {
   text-decoration: none;
 }
 
-.white-link {
+.link.white-link {
   color: var(--white-color);
 }
 
