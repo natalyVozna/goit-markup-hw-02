@@ -82,6 +82,10 @@ ul li {
   color: var(--white-color);
 }
 
+.link.white-lite {
+  color: rgba(255, 255, 255, 0.6);
+}
+
 .contacts .link:hover,
 .contacts .link:focus {
   color: var(--accent-color);
