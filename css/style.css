@@ -45,6 +45,10 @@ ul li {
   color: var(--accent-color);
 }
 
+.logo-white {
+  color: var(--white-color);
+}
+
 .site-nav .link {
   color: var(--title-text-color);
   font-style: normal;
@@ -72,6 +76,10 @@ ul li {
   line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
+}
+
+.white-link {
+  color: var(--white-color);
 }
 
 .contacts .link:hover,
@@ -155,4 +163,10 @@ ul li {
   line-height: 1.2;
   text-align: center;
   letter-spacing: 0.03em;
+}
+
+/* footer */
+
+.footer {
+  background: #2f303a;
 }
